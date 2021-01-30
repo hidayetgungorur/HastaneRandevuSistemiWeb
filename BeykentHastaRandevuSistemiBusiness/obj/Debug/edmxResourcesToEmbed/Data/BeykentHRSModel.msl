@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BeykentHRSModelStoreContainer" CdmEntityContainer="BeykentHRSEntities">
+    <EntitySetMapping Name="Doktor">
+      <EntityTypeMapping TypeName="BeykentHRSModel.Doktor">
+        <MappingFragment StoreEntitySet="Doktor">
+          <ScalarProperty Name="RecId" ColumnName="RecId" />
+          <ScalarProperty Name="KullaniciId" ColumnName="KullaniciId" />
+          <ScalarProperty Name="Unvan" ColumnName="Unvan" />
+          <ScalarProperty Name="Maas" ColumnName="Maas" />
+          <ScalarProperty Name="SGKNumarasi" ColumnName="SGKNumarasi" />
+          <ScalarProperty Name="StatusTypeId" ColumnName="StatusTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DoktorPoliklinik">
+      <EntityTypeMapping TypeName="BeykentHRSModel.DoktorPoliklinik">
+        <MappingFragment StoreEntitySet="DoktorPoliklinik">
+          <ScalarProperty Name="RecId" ColumnName="RecId" />
+          <ScalarProperty Name="PoliklinikId" ColumnName="PoliklinikId" />
+          <ScalarProperty Name="DoktorId" ColumnName="DoktorId" />
+          <ScalarProperty Name="StatusTypeId" ColumnName="StatusTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hasta">
+      <EntityTypeMapping TypeName="BeykentHRSModel.Hasta">
+        <MappingFragment StoreEntitySet="Hasta">
+          <ScalarProperty Name="RecId" ColumnName="RecId" />
+          <ScalarProperty Name="KullaniciId" ColumnName="KullaniciId" />
+          <ScalarProperty Name="StatusTypeId" ColumnName="StatusTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HastaRandevu">
+      <EntityTypeMapping TypeName="BeykentHRSModel.HastaRandevu">
+        <MappingFragment StoreEntitySet="HastaRandevu">
+          <ScalarProperty Name="RecId" ColumnName="RecId" />
+          <ScalarProperty Name="PoliklinikId" ColumnName="PoliklinikId" />
+          <ScalarProperty Name="DoktorId" ColumnName="DoktorId" />
+          <ScalarProperty Name="HastaId" ColumnName="HastaId" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="StatusTypeId" ColumnName="StatusTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KullaniciBilgileri">
+      <EntityTypeMapping TypeName="BeykentHRSModel.KullaniciBilgileri">
+        <MappingFragment StoreEntitySet="KullaniciBilgileri">
+          <ScalarProperty Name="RecId" ColumnName="RecId" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+          <ScalarProperty Name="KimlikNumarasi" ColumnName="KimlikNumarasi" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+          <ScalarProperty Name="CepNumarasi" ColumnName="CepNumarasi" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Poliklinik">
+      <EntityTypeMapping TypeName="BeykentHRSModel.Poliklinik">
+        <MappingFragment StoreEntitySet="Poliklinik">
+          <ScalarProperty Name="RecId" ColumnName="RecId" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="StatusTypeId" ColumnName="StatusTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

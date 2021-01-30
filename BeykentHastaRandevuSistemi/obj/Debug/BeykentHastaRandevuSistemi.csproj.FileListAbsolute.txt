@@ -1,0 +1,209 @@
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csprojAssemblyReference.cache
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.dll.config
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.pdb
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.exe
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.exe.config
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.rsp
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.exe
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.exe.config
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.rsp
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.AppContext.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Console.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Compression.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Claims.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.ValueTuple.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.exe
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.exe.config
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.rsp
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.pdb
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.xml
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csproj.CopyComplete
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.pdb
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.SqlServer.dll
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.SqlServer.xml
+C:\Users\HG\Desktop\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.dll.config
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.dll.config
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.pdb
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.exe
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.exe.config
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.rsp
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.exe
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.exe.config
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.rsp
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.AppContext.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Collections.Immutable.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Console.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Compression.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.FileSystem.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Pipes.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.AccessControl.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Claims.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.ValueTuple.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XPath.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.exe
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.exe.config
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.rsp
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\VBCSCompiler.exe
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\VBCSCompiler.exe.config
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.SqlServer.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.pdb
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.dll.config
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.xml
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.SqlServer.xml
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csprojAssemblyReference.cache
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csproj.CoreCompileInputs.cache
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csproj.CopyComplete
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.dll
+E:\Dersler\Lisans\2019-2020\Gelişmiş Veri Tabanı Uygulamaları\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.pdb
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\ApplicationInsights.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.dll.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemi.pdb
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.exe
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.exe.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csc.rsp
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.exe
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.exe.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\csi.rsp
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.AppContext.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Collections.Immutable.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Console.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Compression.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.FileSystem.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.IO.Pipes.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.AccessControl.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Claims.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.ValueTuple.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XPath.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.exe
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.exe.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\vbc.rsp
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\VBCSCompiler.exe
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\roslyn\VBCSCompiler.exe.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.SqlServer.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.Web.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.WindowsServer.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.ApplicationInsights.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiData.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.pdb
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiBusiness.dll.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\EntityFramework.SqlServer.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.Web.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AI.WindowsServer.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.ApplicationInsights.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiData.pdb
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\bin\BeykentHastaRandevuSistemiData.dll.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csprojAssemblyReference.cache
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csproj.CoreCompileInputs.cache
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.csproj.CopyComplete
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemi\obj\Debug\BeykentHastaRandevuSistemi.pdb

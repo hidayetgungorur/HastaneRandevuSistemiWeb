@@ -1,0 +1,15 @@
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\BeykentHastaRandevuSistemiBusiness.dll.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\BeykentHastaRandevuSistemiBusiness.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\BeykentHastaRandevuSistemiBusiness.pdb
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\BeykentHastaRandevuSistemiData.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\EntityFramework.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\EntityFramework.SqlServer.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\BeykentHastaRandevuSistemiData.pdb
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\BeykentHastaRandevuSistemiData.dll.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\EntityFramework.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\bin\Release\EntityFramework.SqlServer.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\obj\Release\BeykentHastaRandevuSistemiBusiness.csprojAssemblyReference.cache
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\obj\Release\BeykentHastaRandevuSistemiBusiness.csproj.CoreCompileInputs.cache
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\obj\Release\BeykentHastaRandevuSistemiBusiness.csproj.CopyComplete
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\obj\Release\BeykentHastaRandevuSistemiBusiness.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiBusiness\obj\Release\BeykentHastaRandevuSistemiBusiness.pdb

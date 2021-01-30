@@ -1,0 +1,12 @@
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\bin\Debug\BeykentHastaRandevuSistemiData.dll.config
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\bin\Debug\BeykentHastaRandevuSistemiData.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\bin\Debug\BeykentHastaRandevuSistemiData.pdb
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\bin\Debug\EntityFramework.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\bin\Debug\EntityFramework.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\obj\Debug\BeykentHastaRandevuSistemiData.csprojAssemblyReference.cache
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\obj\Debug\BeykentHastaRandevuSistemiData.csproj.CoreCompileInputs.cache
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\obj\Debug\BeykentHastaRandevuSistemiData.csproj.CopyComplete
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\obj\Debug\BeykentHastaRandevuSistemiData.dll
+E:\Dersler\Lisans\2020-2021\Bitirme Projesi\BeykentHastaRandevuSistemi\BeykentHastaRandevuSistemiData\obj\Debug\BeykentHastaRandevuSistemiData.pdb

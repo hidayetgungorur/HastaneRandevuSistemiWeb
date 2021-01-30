@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\HG\Desktop\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="BHRSService.svc">
+      <publishTime>10/22/2020 18:44:19</publishTime>
+    </File>
+    <File Include="bin/BeykentHastaRandevuSistemiBusiness.dll">
+      <publishTime>12/20/2020 02:07:20</publishTime>
+    </File>
+    <File Include="bin/BeykentHastaRandevuSistemiBusiness.dll.config">
+      <publishTime>10/22/2020 18:41:27</publishTime>
+    </File>
+    <File Include="bin/BeykentHastaRandevuSistemiBusiness.pdb">
+      <publishTime>12/20/2020 02:07:20</publishTime>
+    </File>
+    <File Include="bin/BeykentHastaRandevuSistemiData.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/BeykentHastaRandevuSistemiData.dll.config">
+      <publishTime>10/22/2020 18:32:29</publishTime>
+    </File>
+    <File Include="bin/BeykentHastaRandevuSistemiData.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/BHRSWebService.dll">
+      <publishTime>12/20/2020 02:08:07</publishTime>
+    </File>
+    <File Include="bin/BHRSWebService.pdb">
+      <publishTime>12/20/2020 02:08:07</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>07/06/2018 11:03:48</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>07/06/2018 11:03:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2020 15:33:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

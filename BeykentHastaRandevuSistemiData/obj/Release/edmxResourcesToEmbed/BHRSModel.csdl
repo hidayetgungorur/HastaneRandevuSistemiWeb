@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BHRSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Doktor">
+    <Key>
+      <PropertyRef Name="RecId" />
+    </Key>
+    <Property Name="RecId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciId" Type="Int32" Nullable="false" />
+    <Property Name="Unvan" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Maas" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="SGKNumarasi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="StatusTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="KullaniciBilgileri" Relationship="Self.FK_Doktor_UserBilgileri" FromRole="Doktor" ToRole="KullaniciBilgileri" />
+    <NavigationProperty Name="DoktorPoliklinik" Relationship="Self.FK_DoktorPoliklinik_Doktor" FromRole="Doktor" ToRole="DoktorPoliklinik" />
+    <NavigationProperty Name="HastaRandevu" Relationship="Self.FK_HastaRandevu_Doktor" FromRole="Doktor" ToRole="HastaRandevu" />
+  </EntityType>
+  <EntityType Name="DoktorPoliklinik">
+    <Key>
+      <PropertyRef Name="RecId" />
+    </Key>
+    <Property Name="RecId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PoliklinikId" Type="Int32" Nullable="false" />
+    <Property Name="DoktorId" Type="Int32" Nullable="false" />
+    <Property Name="StatusTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Doktor" Relationship="Self.FK_DoktorPoliklinik_Doktor" FromRole="DoktorPoliklinik" ToRole="Doktor" />
+    <NavigationProperty Name="Poliklinik" Relationship="Self.FK_DoktorPoliklinik_Poliklinik" FromRole="DoktorPoliklinik" ToRole="Poliklinik" />
+  </EntityType>
+  <EntityType Name="Hasta">
+    <Key>
+      <PropertyRef Name="RecId" />
+    </Key>
+    <Property Name="RecId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciId" Type="Int32" Nullable="false" />
+    <Property Name="StatusTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="KullaniciBilgileri" Relationship="Self.FK_Hasta_UserBilgileri" FromRole="Hasta" ToRole="KullaniciBilgileri" />
+    <NavigationProperty Name="HastaRandevu" Relationship="Self.FK_HastaRandevu_Hasta" FromRole="Hasta" ToRole="HastaRandevu" />
+  </EntityType>
+  <EntityType Name="HastaRandevu">
+    <Key>
+      <PropertyRef Name="RecId" />
+    </Key>
+    <Property Name="RecId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PoliklinikId" Type="Int32" Nullable="false" />
+    <Property Name="DoktorId" Type="Int32" Nullable="false" />
+    <Property Name="HastaId" Type="Int32" />
+    <Property Name="Tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="StatusTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Doktor" Relationship="Self.FK_HastaRandevu_Doktor" FromRole="HastaRandevu" ToRole="Doktor" />
+    <NavigationProperty Name="Hasta" Relationship="Self.FK_HastaRandevu_Hasta" FromRole="HastaRandevu" ToRole="Hasta" />
+    <NavigationProperty Name="Poliklinik" Relationship="Self.FK_HastaRandevu_Poliklinik" FromRole="HastaRandevu" ToRole="Poliklinik" />
+  </EntityType>
+  <EntityType Name="KullaniciBilgileri">
+    <Key>
+      <PropertyRef Name="RecId" />
+    </Key>
+    <Property Name="RecId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyadi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KimlikNumarasi" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cinsiyet" Type="Int32" Nullable="false" />
+    <Property Name="DogumTarihi" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="CepNumarasi" Type="String" MaxLength="55" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Doktor" Relationship="Self.FK_Doktor_UserBilgileri" FromRole="KullaniciBilgileri" ToRole="Doktor" />
+    <NavigationProperty Name="Hasta" Relationship="Self.FK_Hasta_UserBilgileri" FromRole="KullaniciBilgileri" ToRole="Hasta" />
+  </EntityType>
+  <EntityType Name="Poliklinik">
+    <Key>
+      <PropertyRef Name="RecId" />
+    </Key>
+    <Property Name="RecId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="StatusTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DoktorPoliklinik" Relationship="Self.FK_DoktorPoliklinik_Poliklinik" FromRole="Poliklinik" ToRole="DoktorPoliklinik" />
+    <NavigationProperty Name="HastaRandevu" Relationship="Self.FK_HastaRandevu_Poliklinik" FromRole="Poliklinik" ToRole="HastaRandevu" />
+  </EntityType>
+  <Association Name="FK_Doktor_UserBilgileri">
+    <End Role="KullaniciBilgileri" Type="Self.KullaniciBilgileri" Multiplicity="1" />
+    <End Role="Doktor" Type="Self.Doktor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KullaniciBilgileri">
+        <PropertyRef Name="RecId" />
+      </Principal>
+      <Dependent Role="Doktor">
+        <PropertyRef Name="KullaniciId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DoktorPoliklinik_Doktor">
+    <End Role="Doktor" Type="Self.Doktor" Multiplicity="1" />
+    <End Role="DoktorPoliklinik" Type="Self.DoktorPoliklinik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doktor">
+        <PropertyRef Name="RecId" />
+      </Principal>
+      <Dependent Role="DoktorPoliklinik">
+        <PropertyRef Name="DoktorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HastaRandevu_Doktor">
+    <End Role="Doktor" Type="Self.Doktor" Multiplicity="1" />
+    <End Role="HastaRandevu" Type="Self.HastaRandevu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doktor">
+        <PropertyRef Name="RecId" />
+      </Principal>
+      <Dependent Role="HastaRandevu">
+        <PropertyRef Name="DoktorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DoktorPoliklinik_Poliklinik">
+    <End Role="Poliklinik" Type="Self.Poliklinik" Multiplicity="1" />
+    <End Role="DoktorPoliklinik" Type="Self.DoktorPoliklinik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Poliklinik">
+        <PropertyRef Name="RecId" />
+      </Principal>
+      <Dependent Role="DoktorPoliklinik">
+        <PropertyRef Name="PoliklinikId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Hasta_UserBilgileri">
+    <End Role="KullaniciBilgileri" Type="Self.KullaniciBilgileri" Multiplicity="1" />
+    <End Role="Hasta" Type="Self.Hasta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KullaniciBilgileri">
+        <PropertyRef Name="RecId" />
+      </Principal>
+      <Dependent Role="Hasta">
+        <PropertyRef Name="KullaniciId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HastaRandevu_Hasta">
+    <End Role="Hasta" Type="Self.Hasta" Multiplicity="0..1" />
+    <End Role="HastaRandevu" Type="Self.HastaRandevu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hasta">
+        <PropertyRef Name="RecId" />
+      </Principal>
+      <Dependent Role="HastaRandevu">
+        <PropertyRef Name="HastaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HastaRandevu_Poliklinik">
+    <End Role="Poliklinik" Type="Self.Poliklinik" Multiplicity="1" />
+    <End Role="HastaRandevu" Type="Self.HastaRandevu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Poliklinik">
+        <PropertyRef Name="RecId" />
+      </Principal>
+      <Dependent Role="HastaRandevu">
+        <PropertyRef Name="PoliklinikId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BHRSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Doktor" EntityType="Self.Doktor" />
+    <EntitySet Name="DoktorPoliklinik" EntityType="Self.DoktorPoliklinik" />
+    <EntitySet Name="Hasta" EntityType="Self.Hasta" />
+    <EntitySet Name="HastaRandevu" EntityType="Self.HastaRandevu" />
+    <EntitySet Name="KullaniciBilgileri" EntityType="Self.KullaniciBilgileri" />
+    <EntitySet Name="Poliklinik" EntityType="Self.Poliklinik" />
+    <AssociationSet Name="FK_Doktor_UserBilgileri" Association="Self.FK_Doktor_UserBilgileri">
+      <End Role="KullaniciBilgileri" EntitySet="KullaniciBilgileri" />
+      <End Role="Doktor" EntitySet="Doktor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DoktorPoliklinik_Doktor" Association="Self.FK_DoktorPoliklinik_Doktor">
+      <End Role="Doktor" EntitySet="Doktor" />
+      <End Role="DoktorPoliklinik" EntitySet="DoktorPoliklinik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HastaRandevu_Doktor" Association="Self.FK_HastaRandevu_Doktor">
+      <End Role="Doktor" EntitySet="Doktor" />
+      <End Role="HastaRandevu" EntitySet="HastaRandevu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DoktorPoliklinik_Poliklinik" Association="Self.FK_DoktorPoliklinik_Poliklinik">
+      <End Role="Poliklinik" EntitySet="Poliklinik" />
+      <End Role="DoktorPoliklinik" EntitySet="DoktorPoliklinik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Hasta_UserBilgileri" Association="Self.FK_Hasta_UserBilgileri">
+      <End Role="KullaniciBilgileri" EntitySet="KullaniciBilgileri" />
+      <End Role="Hasta" EntitySet="Hasta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HastaRandevu_Hasta" Association="Self.FK_HastaRandevu_Hasta">
+      <End Role="Hasta" EntitySet="Hasta" />
+      <End Role="HastaRandevu" EntitySet="HastaRandevu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HastaRandevu_Poliklinik" Association="Self.FK_HastaRandevu_Poliklinik">
+      <End Role="Poliklinik" EntitySet="Poliklinik" />
+      <End Role="HastaRandevu" EntitySet="HastaRandevu" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

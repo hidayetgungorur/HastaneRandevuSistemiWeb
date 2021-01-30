@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c6898ffe358d456595aa9d9d3529c559" Name="Diagram1" ZoomLevel="139">
+        <EntityTypeShape EntityType="BHRSModel.Doktor" Width="1.5" PointX="8.875" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BHRSModel.DoktorPoliklinik" Width="1.5" PointX="12.625" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BHRSModel.Hasta" Width="1.5" PointX="12.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BHRSModel.HastaRandevu" Width="1.5" PointX="6.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BHRSModel.KullaniciBilgileri" Width="1.5" PointX="2.875" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BHRSModel.Poliklinik" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="BHRSModel.FK_Doktor_UserBilgileri" ManuallyRouted="false" />
+        <AssociationConnector Association="BHRSModel.FK_DoktorPoliklinik_Doktor" ManuallyRouted="false" />
+        <AssociationConnector Association="BHRSModel.FK_HastaRandevu_Doktor" ManuallyRouted="false" />
+        <AssociationConnector Association="BHRSModel.FK_DoktorPoliklinik_Poliklinik" ManuallyRouted="false" />
+        <AssociationConnector Association="BHRSModel.FK_Hasta_UserBilgileri" ManuallyRouted="false" />
+        <AssociationConnector Association="BHRSModel.FK_HastaRandevu_Hasta" ManuallyRouted="false" />
+        <AssociationConnector Association="BHRSModel.FK_HastaRandevu_Poliklinik" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
